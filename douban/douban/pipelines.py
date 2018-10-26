@@ -4,7 +4,7 @@ import json
 
 class DoubanPipeline(object):
     def __init__(self):
-        self.file = open('doubanTOP250', 'w', encoding='utf-8')
+        self.file = open('doubanTOP250.txt', 'w', encoding='utf-8')
 
     def close_file(self, spider):
         self.file.close()
