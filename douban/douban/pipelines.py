@@ -29,14 +29,17 @@ class MySQLPipeline(object):
         self.cursor = self.conn.cursor()
 
     def process_item(self, item, spider):
-        self.cursor.execute(
-            '''insert into movie (rank, title, score, tags, link, playable)
-            values (%s, %s, %s, %s, %s, %s)''',
-            (item['rank'],
-             item['title'],
-             item['score'],
-             item['tags'],
-             item['link'],
-             item['playable']))
-        self.conn.commit()
+        try:
+            self.cursor.execute(
+                '''insert into movie (rank, title, score, tags, link, playable)
+                values (%s, %s, %s, %s, %s, %s)''',
+                (item['rank'],
+                 item['title'],
+                 item['score'],
+                 item['tags'],
+                 item['link'],
+                 item['playable']))
+            self.conn.commit()
+        except:
+            self.conn.rollback()
         return item
