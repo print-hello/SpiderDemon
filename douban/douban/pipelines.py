@@ -15,6 +15,7 @@ class DoubanPipeline(object):
         self.file.write(line)
         return item
 
+
 class MySQLPipeline(object):
     def __init__(self):
         self.conn = pymysql.connect(
@@ -38,5 +39,4 @@ class MySQLPipeline(object):
              item['link'],
              item['playable']))
         self.conn.commit()
-
         return item

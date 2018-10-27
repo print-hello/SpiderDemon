@@ -28,11 +28,9 @@ class DoubanmovieSpider(scrapy.Spider):
                 playable = '[无播放源]'
             item['playable'] = playable
             items.append(item)
-            yield  item
+            yield item
 
         next_page = response.css('span.next a::attr(href)')
         if next_page:
             url = response.urljoin(next_page[0].extract())
             yield scrapy.Request(url, self.parse)
-
-
