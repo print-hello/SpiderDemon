@@ -6,9 +6,9 @@ import scrapy
 
 
 class DoubanItem(scrapy.Item):
-    id = scrapy.Field()
+    rank = scrapy.Field()
     title = scrapy.Field()
-    grade = scrapy.Field()
+    score = scrapy.Field()
     tags = scrapy.Field()
     link = scrapy.Field()
     playable = scrapy.Field()

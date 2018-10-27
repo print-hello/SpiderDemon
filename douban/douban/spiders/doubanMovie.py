@@ -1,5 +1,6 @@
 '''
 Author: Vinter Wang
+Email: printhello@163.com
 '''
 # -*- coding: utf-8 -*-
 import scrapy
@@ -15,11 +16,17 @@ class DoubanmovieSpider(scrapy.Spider):
         items = []
         for info in response.css('div.item'):
             item = DoubanItem()
-            item['id'] = info.css('div.pic>em::text')[0].extract()
+            item['rank'] = info.css('div.pic>em::text')[0].extract()
             item['title'] = info.css('div.pic a>img::attr(alt)')[0].extract()
+            item['score'] = info.css('span.rating_num::text')[0].extract()
             item['tags'] = info.css('span.inq::text')[0].extract()
             item['link'] = info.css('div.hd>a::attr(href)')[0].extract()
-            item['playable'] = info.css('span.playable::text').extract()
+            playable = info.css('span.playable::text').extract()
+            if playable:
+                playable = playable[0]
+            else:
+                playable = '[无播放源]'
+            item['playable'] = playable
             items.append(item)
             yield  item
 

@@ -66,6 +66,7 @@ COOKIES_ENABLED = False
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'douban.pipelines.DoubanPipeline': 300,
+   # 'douban.pipelines.MySQLPipeline': 100
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

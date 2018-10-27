@@ -1,250 +1,250 @@
-{"link": "https://movie.douban.com/subject/1292052/", "title": "肖申克的救赎", "id": "1", "tags": "希望让人自由。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291546/", "title": "霸王别姬", "id": "2", "tags": "风华绝代。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1295644/", "title": "这个杀手不太冷", "id": "3", "tags": "怪蜀黍和小萝莉不得不说的故事。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292720/", "title": "阿甘正传", "id": "4", "tags": "一部美国近现代史。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292063/", "title": "美丽人生", "id": "5", "tags": "最美的谎言。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292722/", "title": "泰坦尼克号", "id": "6", "tags": "失去的才是永恒的。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291561/", "title": "千与千寻", "id": "7", "tags": "最好的宫崎骏，最好的久石让。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/1295124/", "title": "辛德勒的名单", "id": "8", "tags": "拯救一个人，就是拯救整个世界。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3541415/", "title": "盗梦空间", "id": "9", "tags": "诺兰给了我们一场无法盗取的梦。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2131459/", "title": "机器人总动员", "id": "10", "tags": "小瓦力，大人生。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3011091/", "title": "忠犬八公的故事", "id": "11", "tags": "永远都不能忘记你所爱的人。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3793023/", "title": "三傻大闹宝莱坞", "id": "12", "tags": "英俊版憨豆，高情商版谢耳朵。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292001/", "title": "海上钢琴师", "id": "13", "tags": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/1291549/", "title": "放牛班的春天", "id": "14", "tags": "天籁一般的童声，是最接近上帝的存在。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292213/", "title": "大话西游之大圣娶亲", "id": "15", "tags": "一生所爱。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292064/", "title": "楚门的世界", "id": "16", "tags": "如果再也不能见到你，祝你早安，午安，晚安。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291841/", "title": "教父", "id": "17", "tags": "千万不要记恨你的对手，这样会让你失去理智。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291560/", "title": "龙猫", "id": "18", "tags": "人人心中都有个龙猫，童年就永远不会消失。", "playable": []}
-{"link": "https://movie.douban.com/subject/1889243/", "title": "星际穿越", "id": "19", "tags": "爱是一种力量，让我们超越时空感知它的存在。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/5912992/", "title": "熔炉", "id": "20", "tags": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。", "playable": []}
-{"link": "https://movie.douban.com/subject/1307914/", "title": "无间道", "id": "21", "tags": "香港电影史上永不过时的杰作。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/6786002/", "title": "触不可及", "id": "22", "tags": "满满温情的高雅喜剧。", "playable": []}
-{"link": "https://movie.douban.com/subject/1849031/", "title": "当幸福来敲门", "id": "23", "tags": "平民励志片。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1300267/", "title": "乱世佳人", "id": "24", "tags": "Tomorrow is another day.", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3319755/", "title": "怦然心动", "id": "25", "tags": "真正的幸福是来自内心深处。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25662329/", "title": "疯狂动物城", "id": "26", "tags": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291828/", "title": "天堂电影院", "id": "27", "tags": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。", "playable": []}
-{"link": "https://movie.douban.com/subject/1851857/", "title": "蝙蝠侠：黑暗骑士", "id": "28", "tags": "无尽的黑暗。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292365/", "title": "活着", "id": "29", "tags": "张艺谋最好的电影。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293182/", "title": "十二怒汉", "id": "30", "tags": "1957年的理想主义。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1929463/", "title": "少年派的奇幻漂流", "id": "31", "tags": "瑰丽壮观、无人能及的冒险之旅。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291858/", "title": "鬼子来了", "id": "32", "tags": "对敌人的仁慈，就是对自己残忍。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291552/", "title": "指环王3：王者无敌", "id": "33", "tags": "史诗的终章。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292000/", "title": "搏击俱乐部", "id": "34", "tags": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291583/", "title": "天空之城", "id": "35", "tags": "对天空的追逐，永不停止。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/1296141/", "title": "控方证人", "id": "36", "tags": "比利·怀德满分作品。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2129039/", "title": "飞屋环游记", "id": "37", "tags": "最后那些最无聊的事情，才是最值得怀念的。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1299398/", "title": "大话西游之月光宝盒", "id": "38", "tags": "旷古烁今。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293839/", "title": "罗马假日", "id": "39", "tags": "爱情哪怕只有一天。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1900841/", "title": "窃听风暴", "id": "40", "tags": "别样人生。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26387939/", "title": "摔跤吧！爸爸", "id": "41", "tags": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293350/", "title": "两杆大烟枪", "id": "42", "tags": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。", "playable": []}
-{"link": "https://movie.douban.com/subject/21937445/", "title": "辩护人", "id": "43", "tags": "电影的现实意义大过电影本身。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1298624/", "title": "闻香识女人", "id": "44", "tags": "史上最美的探戈。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292224/", "title": "飞越疯人院", "id": "45", "tags": "自由万岁。", "playable": []}
-{"link": "https://movie.douban.com/subject/1308807/", "title": "哈尔的移动城堡", "id": "46", "tags": "带着心爱的人在天空飞翔。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291548/", "title": "死亡诗社", "id": "47", "tags": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1309046/", "title": "V字仇杀队", "id": "48", "tags": "一张面具背后的理想与革命。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3442220/", "title": "海豚湾", "id": "49", "tags": "海豚的微笑，是世界上最高明的伪装。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1299131/", "title": "教父2", "id": "50", "tags": "优雅的孤独。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291572/", "title": "指环王2：双塔奇兵", "id": "51", "tags": "承前启后的史诗篇章。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291571/", "title": "指环王1：魔戒再现", "id": "52", "tags": "传说的开始。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1306029/", "title": "美丽心灵", "id": "53", "tags": "爱是一切逻辑和原由。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291818/", "title": "饮食男女", "id": "54", "tags": "人生不能像做菜，把所有的料都准备好了才下锅。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292220/", "title": "情书", "id": "55", "tags": "暗恋的极致。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/21937452/", "title": "素媛", "id": "56", "tags": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。", "playable": []}
-{"link": "https://movie.douban.com/subject/1301753/", "title": "狮子王", "id": "57", "tags": "动物版《哈姆雷特》。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292262/", "title": "美国往事", "id": "58", "tags": "往事如烟，无处祭奠。", "playable": []}
-{"link": "https://movie.douban.com/subject/1296736/", "title": "钢琴家", "id": "59", "tags": "音乐能化解仇恨。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1303021/", "title": "小鞋子", "id": "60", "tags": "奔跑的孩子是天使。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292223/", "title": "七宗罪", "id": "61", "tags": "警察抓小偷，老鼠玩死猫。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1787291/", "title": "被嫌弃的松子的一生", "id": "62", "tags": "以戏谑来戏谑戏谑。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1780330/", "title": "致命魔术", "id": "63", "tags": "孪生蝙蝠侠大战克隆金刚狼。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292215/", "title": "天使爱美丽", "id": "64", "tags": "法式小清新。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1485260/", "title": "本杰明·巴顿奇事", "id": "65", "tags": "在时间之河里感受溺水之苦。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292402/", "title": "西西里的美丽传说", "id": "66", "tags": "美丽无罪。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291843/", "title": "黑客帝国", "id": "67", "tags": "视觉革命。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3742360/", "title": "让子弹飞", "id": "68", "tags": "你给我翻译翻译，神马叫做TMD的惊喜。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292849/", "title": "拯救大兵瑞恩", "id": "69", "tags": "美利坚精神输出大片No1.", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1294408/", "title": "音乐之声", "id": "70", "tags": "用音乐化解仇恨，让歌声串起美好。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26580232/", "title": "看不见的客人", "id": "71", "tags": "你以为你以为的就是你以为的。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293172/", "title": "末代皇帝", "id": "72", "tags": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291832/", "title": "低俗小说", "id": "73", "tags": "故事的高级讲法。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1294639/", "title": "勇敢的心", "id": "74", "tags": "史诗大片的典范。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292370/", "title": "剪刀手爱德华", "id": "75", "tags": "浪漫忧郁的成人童话。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293544/", "title": "沉默的羔羊", "id": "76", "tags": "安东尼·霍普金斯的顶级表演。", "playable": []}
-{"link": "https://movie.douban.com/subject/1418019/", "title": "大闹天宫", "id": "77", "tags": "经典之作，历久弥新。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292343/", "title": "蝴蝶效应", "id": "78", "tags": "人的命运被自己瞬间的抉择改变。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292679/", "title": "春光乍泄", "id": "79", "tags": "爱情纠缠，男女一致。", "playable": []}
-{"link": "https://movie.douban.com/subject/2149806/", "title": "入殓师", "id": "80", "tags": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292656/", "title": "心灵捕手", "id": "81", "tags": "人生中应该拥有这样的一段豁然开朗。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1295038/", "title": "哈利·波特与魔法石", "id": "82", "tags": "童话世界的开端。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3072124/", "title": "玛丽和马克思", "id": "83", "tags": "你是我最好的朋友，你是我唯一的朋友 。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/11525673/", "title": "布达佩斯大饭店", "id": "84", "tags": "小清新的故事里注入了大历史的情怀。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291875/", "title": "阳光灿烂的日子", "id": "85", "tags": "一场华丽的意淫。", "playable": []}
-{"link": "https://movie.douban.com/subject/2334904/", "title": "禁闭岛", "id": "86", "tags": "昔日翩翩少年，今日大腹便便。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1305487/", "title": "猫鼠游戏", "id": "87", "tags": "骗子大师和执著警探的你追我跑故事。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1297359/", "title": "幽灵公主", "id": "88", "tags": "人与自然的战争史诗。", "playable": []}
-{"link": "https://movie.douban.com/subject/1297630/", "title": "第六感", "id": "89", "tags": "深入内心的恐怖，出人意料的结局。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291999/", "title": "重庆森林", "id": "90", "tags": "寂寞没有期限。", "playable": []}
-{"link": "https://movie.douban.com/subject/6985810/", "title": "狩猎", "id": "91", "tags": "人言可畏。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1297192/", "title": "致命ID", "id": "92", "tags": "最不可能的那个人永远是最可能的。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1418834/", "title": "断背山", "id": "93", "tags": "每个人心中都有一座断背山。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3008247/", "title": "穿条纹睡衣的男孩", "id": "94", "tags": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291545/", "title": "大鱼", "id": "95", "tags": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1298070/", "title": "加勒比海盗", "id": "96", "tags": "约翰尼·德普的独角戏。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1652587/", "title": "阿凡达", "id": "97", "tags": "绝对意义上的美轮美奂。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/4268598/", "title": "告白", "id": "98", "tags": "没有一人完全善，也没有一人完全恶。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1294371/", "title": "摩登时代", "id": "99", "tags": "大时代中的人生，小人物的悲喜。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292434/", "title": "一一", "id": "100", "tags": "我们都曾经是一一。", "playable": []}
-{"link": "https://movie.douban.com/subject/1305164/", "title": "甜蜜蜜", "id": "101", "tags": "相逢只要一瞬间，等待却像是一辈子。", "playable": []}
-{"link": "https://movie.douban.com/subject/1316510/", "title": "射雕英雄传之东成西就", "id": "102", "tags": "百看不厌。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/4917726/", "title": "阳光姐妹淘", "id": "103", "tags": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/21318488/", "title": "消失的爱人", "id": "104", "tags": "年度最佳date movie。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1296339/", "title": "爱在黎明破晓前", "id": "105", "tags": "缘分是个连绵词，最美不过一瞬。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292208/", "title": "上帝之城", "id": "106", "tags": "被上帝抛弃了的上帝之城。", "playable": []}
-{"link": "https://movie.douban.com/subject/1297052/", "title": "侧耳倾听", "id": "107", "tags": "少女情怀总是诗。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291990/", "title": "爱在日落黄昏时", "id": "108", "tags": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291585/", "title": "风之谷", "id": "109", "tags": "动画片的圣经。", "playable": []}
-{"link": "https://movie.douban.com/subject/5322596/", "title": "超脱", "id": "110", "tags": "穷尽一生，我们要学会的，不过是彼此拥抱。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25814705/", "title": "小森林 夏秋篇", "id": "111", "tags": "那些静得只能听见呼吸的日子里，你明白孤独即生活。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1302425/", "title": "喜剧之王", "id": "112", "tags": "我是一个演员。", "playable": []}
-{"link": "https://movie.douban.com/subject/1297447/", "title": "倩女幽魂", "id": "113", "tags": "两张绝世的脸。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/21360417/", "title": "恐怖直播", "id": "114", "tags": "恐怖分子的“秋菊打官司”。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1865703/", "title": "红辣椒", "id": "115", "tags": "梦的勾结。", "playable": []}
-{"link": "https://movie.douban.com/subject/1293359/", "title": "菊次郎的夏天", "id": "116", "tags": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2353023/", "title": "驯龙高手", "id": "117", "tags": "和谐的生活离不开摸头与被摸头。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292274/", "title": "幸福终点站", "id": "118", "tags": "有时候幸福需要等一等。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3287562/", "title": "神偷奶爸", "id": "119", "tags": "Mr. I Don't Care其实也有Care的时候。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/4202302/", "title": "借东西的小人阿莉埃蒂", "id": "120", "tags": "曾经的那段美好会沉淀为一辈子的记忆。", "playable": []}
-{"link": "https://movie.douban.com/subject/3792799/", "title": "岁月神偷", "id": "121", "tags": "岁月流逝，来日可追。", "playable": []}
-{"link": "https://movie.douban.com/subject/1300299/", "title": "杀人回忆", "id": "122", "tags": "关于连环杀人悬案的集体回忆。", "playable": []}
-{"link": "https://movie.douban.com/subject/1295399/", "title": "七武士", "id": "123", "tags": "时代悲歌。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293318/", "title": "萤火虫之墓", "id": "124", "tags": "幸福是生生不息，却难以触及的远。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/1291579/", "title": "怪兽电力公司", "id": "125", "tags": "不要给它起名字，起了名字就有感情了。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1578507/", "title": "谍影重重3", "id": "126", "tags": "像吃了苏打饼一样干脆的电影。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1303037/", "title": "喜宴", "id": "127", "tags": "中国家庭的喜怒哀乐忍。", "playable": []}
-{"link": "https://movie.douban.com/subject/25814707/", "title": "小森林 冬春篇", "id": "128", "tags": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2209573/", "title": "贫民窟的百万富翁", "id": "129", "tags": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁", "playable": []}
-{"link": "https://movie.douban.com/subject/1417598/", "title": "电锯惊魂", "id": "130", "tags": "真相就在眼前。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292328/", "title": "东邪西毒", "id": "131", "tags": "电影诗。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26799731/", "title": "请以你的名字呼唤我", "id": "132", "tags": "沉醉在电影的情感和视听氛围中无法自拔。", "playable": []}
-{"link": "https://movie.douban.com/subject/1304447/", "title": "记忆碎片", "id": "133", "tags": "一个针管引发的血案。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292401/", "title": "真爱至上", "id": "134", "tags": "爱，是个动词。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1978709/", "title": "黑天鹅", "id": "135", "tags": "黑暗之美。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1907966/", "title": "疯狂原始人", "id": "136", "tags": "老少皆宜，这就是好莱坞动画的魅力。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3011235/", "title": "哈利·波特与死亡圣器(下)", "id": "137", "tags": "10年的完美句点。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/5989818/", "title": "萤火之森", "id": "138", "tags": "触不到的恋人。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/10777687/", "title": "7号房的礼物", "id": "139", "tags": "《我是山姆》的《美丽人生》。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291870/", "title": "雨人", "id": "140", "tags": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。", "playable": []}
-{"link": "https://movie.douban.com/subject/1297574/", "title": "英雄本色", "id": "141", "tags": "英雄泪短，兄弟情长。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291822/", "title": "卢旺达饭店", "id": "142", "tags": "当这个世界闭上双眼，他却敞开了怀抱。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3443389/", "title": "海洋", "id": "143", "tags": "大海啊，不全是水。", "playable": []}
-{"link": "https://movie.douban.com/subject/25917973/", "title": "心迷宫", "id": "144", "tags": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/11026735/", "title": "超能陆战队", "id": "145", "tags": "Balalala~~~", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1306249/", "title": "唐伯虎点秋香", "id": "146", "tags": "华太师是黄霑，吴镇宇四大才子之一。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3395373/", "title": "蝙蝠侠：黑暗骑士崛起", "id": "147", "tags": "诺兰就是保证。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/24750126/", "title": "荒蛮故事", "id": "148", "tags": "始于荒诞，止于更荒诞。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1418200/", "title": "傲慢与偏见", "id": "149", "tags": "爱是摈弃傲慢与偏见之后的曙光。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25980443/", "title": "海边的曼彻斯特", "id": "150", "tags": "我们都有权利不与自己的过去和解。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1296909/", "title": "虎口脱险", "id": "151", "tags": "永远看不腻的喜剧。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1295409/", "title": "纵横四海", "id": "152", "tags": "香港浪漫主义警匪动作片的巅峰之作。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1295865/", "title": "燃情岁月", "id": "153", "tags": "传奇，不是每个人都可以拥有。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1294240/", "title": "教父3", "id": "154", "tags": "任何信念的力量，都无法改变命运。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/10577869/", "title": "时空恋旅人", "id": "155", "tags": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1858711/", "title": "玩具总动员3", "id": "156", "tags": "跨度十五年的欢乐与泪水。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291557/", "title": "花样年华", "id": "157", "tags": "偷情本没有这样美。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1300992/", "title": "完美的世界", "id": "158", "tags": "坏人的好总是比好人的好来得更感人。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1309163/", "title": "恋恋笔记本", "id": "159", "tags": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292337/", "title": "无人知晓", "id": "160", "tags": "我的平常生活就是他人的幸福。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1793929/", "title": "达拉斯买家俱乐部", "id": "161", "tags": "Jared Leto的腿比女人还美！", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26430107/", "title": "二十二", "id": "162", "tags": "有一些东西不应该被遗忘。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293460/", "title": "雨中曲", "id": "163", "tags": "骨灰级歌舞片。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293964/", "title": "魂断蓝桥", "id": "164", "tags": "中国式内在的美国电影。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292528/", "title": "猜火车", "id": "165", "tags": "不可猜的青春迷笛。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26325320/", "title": "血战钢锯岭", "id": "166", "tags": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1937946/", "title": "穿越时空的少女", "id": "167", "tags": "爱上未来的你。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/1306861/", "title": "我是山姆", "id": "168", "tags": "爱并不需要智商 。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291578/", "title": "冰川时代", "id": "169", "tags": "松鼠才是角儿。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1302827/", "title": "人工智能", "id": "170", "tags": "对爱的执着，可以超越一切。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25773932/", "title": "爆裂鼓手", "id": "171", "tags": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。", "playable": []}
-{"link": "https://movie.douban.com/subject/2297265/", "title": "浪潮", "id": "172", "tags": "世界离独裁只有五天。", "playable": []}
-{"link": "https://movie.douban.com/subject/1395091/", "title": "未麻的部屋", "id": "173", "tags": "好的剧本是，就算你猜到了结局也猜不到全部。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291879/", "title": "罗生门", "id": "174", "tags": "人生的N种可能性。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2213597/", "title": "朗读者", "id": "175", "tags": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ", "playable": []}
-{"link": "https://movie.douban.com/subject/6307447/", "title": "被解救的姜戈", "id": "176", "tags": "热血沸腾，那个低俗、性感的无耻混蛋又来了。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/10533913/", "title": "头脑特工队", "id": "177", "tags": "愿我们都不用长大，每一座城堡都能永远存在。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1760622/", "title": "香水", "id": "178", "tags": "一个单凭体香达到高潮的男人。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1305690/", "title": "阿飞正传", "id": "179", "tags": "王家卫是一种风格，张国荣是一个代表。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26683290/", "title": "你的名字。", "id": "180", "tags": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1308857/", "title": "可可西里", "id": "181", "tags": "坚硬的信仰。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3011051/", "title": "恐怖游轮", "id": "182", "tags": "不要企图在重复中寻找已经失去的爱。", "playable": []}
-{"link": "https://movie.douban.com/subject/25724855/", "title": "房间", "id": "183", "tags": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/5964718/", "title": "一次别离", "id": "184", "tags": "只有有信仰的人才能说出事实真相。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1419936/", "title": "战争之王", "id": "185", "tags": "做一颗让别人需要你的棋子。", "playable": []}
-{"link": "https://movie.douban.com/subject/1397546/", "title": "追随", "id": "186", "tags": "诺兰的牛逼来源于内心散发出的恐惧。", "playable": []}
-{"link": "https://movie.douban.com/subject/1388216/", "title": "撞车", "id": "187", "tags": "天使与魔鬼的冲撞。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/10463953/", "title": "模仿游戏", "id": "188", "tags": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26628357/", "title": "一个叫欧维的男人决定去死", "id": "189", "tags": "惠及一生的美丽。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1959195/", "title": "忠犬八公物语", "id": "190", "tags": "养狗三日，便会对你终其一生。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2363506/", "title": "地球上的星星", "id": "191", "tags": "天使保护事件始末。", "playable": []}
-{"link": "https://movie.douban.com/subject/1307811/", "title": "魔女宅急便", "id": "192", "tags": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。", "playable": []}
-{"link": "https://movie.douban.com/subject/26614893/", "title": "完美陌生人", "id": "193", "tags": "来啊，互相伤害啊！", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1304102/", "title": "谍影重重", "id": "194", "tags": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1308767/", "title": "谍影重重2", "id": "195", "tags": "谁说王家卫镜头很晃？", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292329/", "title": "牯岭街少年杀人事件", "id": "196", "tags": "弱者送给弱者的一刀。", "playable": []}
-{"link": "https://movie.douban.com/subject/1307315/", "title": "哪吒闹海", "id": "197", "tags": "想你时你在闹海。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292270/", "title": "梦之安魂曲", "id": "198", "tags": "一场没有春天的噩梦。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1303394/", "title": "青蛇", "id": "199", "tags": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293181/", "title": "惊魂记", "id": "200", "tags": "故事的反转与反转，分裂电影的始祖。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1302467/", "title": "黑客帝国3：矩阵革命", "id": "201", "tags": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/26393561/", "title": "小萝莉的猴神大叔", "id": "202", "tags": "宝莱坞的萝莉与大叔。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/6874403/", "title": "再次出发之纽约遇见你", "id": "203", "tags": "爱我就给我看你的播放列表。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291568/", "title": "东京物语", "id": "204", "tags": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292287/", "title": "新龙门客栈", "id": "205", "tags": "嬉笑怒骂，调风动月。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25895901/", "title": "海街日记", "id": "206", "tags": "是枝裕和的家庭习作。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2222996/", "title": "步履不停", "id": "207", "tags": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3075287/", "title": "源代码", "id": "208", "tags": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。", "playable": []}
-{"link": "https://movie.douban.com/subject/1291844/", "title": "终结者2：审判日", "id": "209", "tags": "少见的超越首部的续集，动作片中的经典。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1300374/", "title": "绿里奇迹", "id": "210", "tags": "天使暂时离开。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291992/", "title": "末路狂花", "id": "211", "tags": "没有了退路，只好飞向自由。", "playable": []}
-{"link": "https://movie.douban.com/subject/4739952/", "title": "初恋这件小事", "id": "212", "tags": "黑小鸭速效美白记。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/6534248/", "title": "无敌破坏王", "id": "213", "tags": "迪士尼和皮克斯拿错剧本的产物。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2043546/", "title": "秒速5厘米", "id": "214", "tags": "青春就是放弃和怀念。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1293908/", "title": "城市之光", "id": "215", "tags": "永远的小人物，伟大的卓别林。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1438652/", "title": "无耻混蛋", "id": "216", "tags": "昆汀同学越来越变态了，比北野武还杜琪峰。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/10808442/", "title": "爱在午夜降临前", "id": "217", "tags": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/2300586/", "title": "这个男人来自地球", "id": "218", "tags": "科幻真正的魅力不是视觉效果能取代的。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1300960/", "title": "碧海蓝天", "id": "219", "tags": "在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。", "playable": []}
-{"link": "https://movie.douban.com/subject/1862151/", "title": "疯狂的石头", "id": "220", "tags": "中国版《两杆大烟枪》。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292728/", "title": "勇闯夺命岛", "id": "221", "tags": "类型片的极致。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1294638/", "title": "E.T. 外星人", "id": "222", "tags": "生病的E.T.皮肤的颜色就像柿子饼。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292659/", "title": "变脸", "id": "223", "tags": "当发哥的风衣、墨镜出现在了凯奇身上⋯⋯", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1296753/", "title": "卡萨布兰卡", "id": "224", "tags": "世界上有那么多女人那么多酒馆，但她偏偏走进我的这家。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3007773/", "title": "海盗电台", "id": "225", "tags": "生命不止，摇滚不死。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292233/", "title": "发条橙", "id": "226", "tags": "我完全康复了。", "playable": []}
-{"link": "https://movie.douban.com/subject/1401118/", "title": "黄金三镖客", "id": "227", "tags": "最棒的西部片。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25807345/", "title": "彗星来的那一夜", "id": "228", "tags": "小成本大魅力。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292062/", "title": "美国丽人", "id": "229", "tags": "每个人的内心都是深不可测的大海。 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/25954475/", "title": "聚焦", "id": "230", "tags": "新闻人的理性求真。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1428175/", "title": "血钻", "id": "231", "tags": "每个美丽事物背后都是滴血的现实。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1905462/", "title": "荒野生存", "id": "232", "tags": "出门必备：本草纲目。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/4023638/", "title": "国王的演讲", "id": "233", "tags": "皇上无话儿。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292214/", "title": "非常嫌疑犯", "id": "234", "tags": "我不信仰上帝，但我敬畏上帝。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291853/", "title": "英国病人", "id": "235", "tags": "In memory, love lives forever...", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1292281/", "title": "迁徙的鸟", "id": "236", "tags": "最美的飞翔。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1291824/", "title": "黑鹰坠落", "id": "237", "tags": "还原真实而残酷的战争。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/5908478/", "title": "我爱你", "id": "238", "tags": "你要相信，这世上真的有爱存在，不管在什么年纪 ", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/3217169/", "title": "勇士", "id": "239", "tags": "热血沸腾，相当完美的娱乐拳击大餐。", "playable": []}
-{"link": "https://movie.douban.com/subject/1867345/", "title": "遗愿清单", "id": "240", "tags": "用剩余不多的时间，去燃烧整个生命。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1298653/", "title": "荒岛余生", "id": "241", "tags": "一个人的独角戏。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1307793/", "title": "燕尾蝶", "id": "242", "tags": "现实与童话交相辉映的旅程。", "playable": []}
-{"link": "https://movie.douban.com/subject/1300741/", "title": "枪火", "id": "243", "tags": "一群演技精湛的戏骨，奉献出一个精致的黑帮小品，成就杜琪峰群戏的巅峰之作。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292226/", "title": "2001太空漫游", "id": "244", "tags": "现代科幻电影的开山之作，最伟大导演的最伟大影片。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/4798888/", "title": "叫我第一名", "id": "245", "tags": "乐观比一切都有力量。", "playable": []}
-{"link": "https://movie.douban.com/subject/1292217/", "title": "穆赫兰道", "id": "246", "tags": "大卫·林奇的梦境迷宫。", "playable": []}
-{"link": "https://movie.douban.com/subject/1300117/", "title": "千钧一发", "id": "247", "tags": "一部能引人思考的科幻励志片。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1297478/", "title": "上帝也疯狂", "id": "248", "tags": "纯净原始的笑与感动。", "playable": []}
-{"link": "https://movie.douban.com/subject/1305725/", "title": "大卫·戈尔的一生", "id": "249", "tags": "捍卫人权只是信仰，一点不妨碍其行为的残忍。", "playable": ["[可播放]"]}
-{"link": "https://movie.douban.com/subject/1308575/", "title": "蓝色大门", "id": "250", "tags": "青春的窃窃私语。 ", "playable": []}
+{"score": "9.6", "title": "肖申克的救赎", "link": "https://movie.douban.com/subject/1292052/", "tags": "希望让人自由。", "rank": "1", "playable": "[可播放]"}
+{"score": "9.6", "title": "霸王别姬", "link": "https://movie.douban.com/subject/1291546/", "tags": "风华绝代。", "rank": "2", "playable": "[可播放]"}
+{"score": "9.4", "title": "这个杀手不太冷", "link": "https://movie.douban.com/subject/1295644/", "tags": "怪蜀黍和小萝莉不得不说的故事。", "rank": "3", "playable": "[可播放]"}
+{"score": "9.4", "title": "阿甘正传", "link": "https://movie.douban.com/subject/1292720/", "tags": "一部美国近现代史。", "rank": "4", "playable": "[可播放]"}
+{"score": "9.5", "title": "美丽人生", "link": "https://movie.douban.com/subject/1292063/", "tags": "最美的谎言。", "rank": "5", "playable": "[可播放]"}
+{"score": "9.3", "title": "泰坦尼克号", "link": "https://movie.douban.com/subject/1292722/", "tags": "失去的才是永恒的。 ", "rank": "6", "playable": "[可播放]"}
+{"score": "9.3", "title": "千与千寻", "link": "https://movie.douban.com/subject/1291561/", "tags": "最好的宫崎骏，最好的久石让。 ", "rank": "7", "playable": "[无播放源]"}
+{"score": "9.5", "title": "辛德勒的名单", "link": "https://movie.douban.com/subject/1295124/", "tags": "拯救一个人，就是拯救整个世界。", "rank": "8", "playable": "[可播放]"}
+{"score": "9.3", "title": "盗梦空间", "link": "https://movie.douban.com/subject/3541415/", "tags": "诺兰给了我们一场无法盗取的梦。", "rank": "9", "playable": "[可播放]"}
+{"score": "9.3", "title": "机器人总动员", "link": "https://movie.douban.com/subject/2131459/", "tags": "小瓦力，大人生。", "rank": "10", "playable": "[可播放]"}
+{"score": "9.3", "title": "忠犬八公的故事", "link": "https://movie.douban.com/subject/3011091/", "tags": "永远都不能忘记你所爱的人。", "rank": "11", "playable": "[可播放]"}
+{"score": "9.2", "title": "三傻大闹宝莱坞", "link": "https://movie.douban.com/subject/3793023/", "tags": "英俊版憨豆，高情商版谢耳朵。", "rank": "12", "playable": "[无播放源]"}
+{"score": "9.2", "title": "海上钢琴师", "link": "https://movie.douban.com/subject/1292001/", "tags": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。 ", "rank": "13", "playable": "[无播放源]"}
+{"score": "9.2", "title": "放牛班的春天", "link": "https://movie.douban.com/subject/1291549/", "tags": "天籁一般的童声，是最接近上帝的存在。 ", "rank": "14", "playable": "[可播放]"}
+{"score": "9.2", "title": "大话西游之大圣娶亲", "link": "https://movie.douban.com/subject/1292213/", "tags": "一生所爱。", "rank": "15", "playable": "[可播放]"}
+{"score": "9.2", "title": "楚门的世界", "link": "https://movie.douban.com/subject/1292064/", "tags": "如果再也不能见到你，祝你早安，午安，晚安。", "rank": "16", "playable": "[可播放]"}
+{"score": "9.2", "title": "教父", "link": "https://movie.douban.com/subject/1291841/", "tags": "千万不要记恨你的对手，这样会让你失去理智。", "rank": "17", "playable": "[可播放]"}
+{"score": "9.1", "title": "龙猫", "link": "https://movie.douban.com/subject/1291560/", "tags": "人人心中都有个龙猫，童年就永远不会消失。", "rank": "18", "playable": "[无播放源]"}
+{"score": "9.2", "title": "星际穿越", "link": "https://movie.douban.com/subject/1889243/", "tags": "爱是一种力量，让我们超越时空感知它的存在。", "rank": "19", "playable": "[可播放]"}
+{"score": "9.2", "title": "熔炉", "link": "https://movie.douban.com/subject/5912992/", "tags": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。", "rank": "20", "playable": "[无播放源]"}
+{"score": "9.1", "title": "无间道", "link": "https://movie.douban.com/subject/1307914/", "tags": "香港电影史上永不过时的杰作。", "rank": "21", "playable": "[可播放]"}
+{"score": "9.2", "title": "触不可及", "link": "https://movie.douban.com/subject/6786002/", "tags": "满满温情的高雅喜剧。", "rank": "22", "playable": "[无播放源]"}
+{"score": "9.0", "title": "当幸福来敲门", "link": "https://movie.douban.com/subject/1849031/", "tags": "平民励志片。 ", "rank": "23", "playable": "[可播放]"}
+{"score": "9.2", "title": "乱世佳人", "link": "https://movie.douban.com/subject/1300267/", "tags": "Tomorrow is another day.", "rank": "24", "playable": "[可播放]"}
+{"score": "9.0", "title": "怦然心动", "link": "https://movie.douban.com/subject/3319755/", "tags": "真正的幸福是来自内心深处。", "rank": "25", "playable": "[可播放]"}
+{"score": "9.1", "title": "疯狂动物城", "link": "https://movie.douban.com/subject/25662329/", "tags": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。", "rank": "26", "playable": "[可播放]"}
+{"score": "9.1", "title": "天堂电影院", "link": "https://movie.douban.com/subject/1291828/", "tags": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。", "rank": "27", "playable": "[无播放源]"}
+{"score": "9.1", "title": "蝙蝠侠：黑暗骑士", "link": "https://movie.douban.com/subject/1851857/", "tags": "无尽的黑暗。", "rank": "28", "playable": "[可播放]"}
+{"score": "9.1", "title": "活着", "link": "https://movie.douban.com/subject/1292365/", "tags": "张艺谋最好的电影。", "rank": "29", "playable": "[可播放]"}
+{"score": "9.4", "title": "十二怒汉", "link": "https://movie.douban.com/subject/1293182/", "tags": "1957年的理想主义。 ", "rank": "30", "playable": "[可播放]"}
+{"score": "9.0", "title": "少年派的奇幻漂流", "link": "https://movie.douban.com/subject/1929463/", "tags": "瑰丽壮观、无人能及的冒险之旅。", "rank": "31", "playable": "[可播放]"}
+{"score": "9.2", "title": "鬼子来了", "link": "https://movie.douban.com/subject/1291858/", "tags": "对敌人的仁慈，就是对自己残忍。", "rank": "32", "playable": "[无播放源]"}
+{"score": "9.1", "title": "指环王3：王者无敌", "link": "https://movie.douban.com/subject/1291552/", "tags": "史诗的终章。", "rank": "33", "playable": "[可播放]"}
+{"score": "9.0", "title": "搏击俱乐部", "link": "https://movie.douban.com/subject/1292000/", "tags": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。", "rank": "34", "playable": "[无播放源]"}
+{"score": "9.0", "title": "天空之城", "link": "https://movie.douban.com/subject/1291583/", "tags": "对天空的追逐，永不停止。 ", "rank": "35", "playable": "[无播放源]"}
+{"score": "9.6", "title": "控方证人", "link": "https://movie.douban.com/subject/1296141/", "tags": "比利·怀德满分作品。", "rank": "36", "playable": "[可播放]"}
+{"score": "8.9", "title": "飞屋环游记", "link": "https://movie.douban.com/subject/2129039/", "tags": "最后那些最无聊的事情，才是最值得怀念的。 ", "rank": "37", "playable": "[可播放]"}
+{"score": "8.9", "title": "大话西游之月光宝盒", "link": "https://movie.douban.com/subject/1299398/", "tags": "旷古烁今。", "rank": "38", "playable": "[可播放]"}
+{"score": "9.0", "title": "罗马假日", "link": "https://movie.douban.com/subject/1293839/", "tags": "爱情哪怕只有一天。", "rank": "39", "playable": "[可播放]"}
+{"score": "9.1", "title": "窃听风暴", "link": "https://movie.douban.com/subject/1900841/", "tags": "别样人生。", "rank": "40", "playable": "[可播放]"}
+{"score": "9.1", "title": "摔跤吧！爸爸", "link": "https://movie.douban.com/subject/26387939/", "tags": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。", "rank": "41", "playable": "[可播放]"}
+{"score": "9.1", "title": "两杆大烟枪", "link": "https://movie.douban.com/subject/1293350/", "tags": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。", "rank": "42", "playable": "[无播放源]"}
+{"score": "9.2", "title": "辩护人", "link": "https://movie.douban.com/subject/21937445/", "tags": "电影的现实意义大过电影本身。", "rank": "43", "playable": "[可播放]"}
+{"score": "9.0", "title": "闻香识女人", "link": "https://movie.douban.com/subject/1298624/", "tags": "史上最美的探戈。", "rank": "44", "playable": "[可播放]"}
+{"score": "9.0", "title": "飞越疯人院", "link": "https://movie.douban.com/subject/1292224/", "tags": "自由万岁。", "rank": "45", "playable": "[无播放源]"}
+{"score": "8.9", "title": "哈尔的移动城堡", "link": "https://movie.douban.com/subject/1308807/", "tags": "带着心爱的人在天空飞翔。", "rank": "46", "playable": "[无播放源]"}
+{"score": "9.0", "title": "死亡诗社", "link": "https://movie.douban.com/subject/1291548/", "tags": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。", "rank": "47", "playable": "[可播放]"}
+{"score": "8.8", "title": "V字仇杀队", "link": "https://movie.douban.com/subject/1309046/", "tags": "一张面具背后的理想与革命。", "rank": "48", "playable": "[可播放]"}
+{"score": "9.3", "title": "海豚湾", "link": "https://movie.douban.com/subject/3442220/", "tags": "海豚的微笑，是世界上最高明的伪装。", "rank": "49", "playable": "[可播放]"}
+{"score": "9.1", "title": "教父2", "link": "https://movie.douban.com/subject/1299131/", "tags": "优雅的孤独。", "rank": "50", "playable": "[可播放]"}
+{"score": "9.0", "title": "指环王2：双塔奇兵", "link": "https://movie.douban.com/subject/1291572/", "tags": "承前启后的史诗篇章。", "rank": "51", "playable": "[可播放]"}
+{"score": "8.9", "title": "指环王1：魔戒再现", "link": "https://movie.douban.com/subject/1291571/", "tags": "传说的开始。", "rank": "52", "playable": "[可播放]"}
+{"score": "8.9", "title": "美丽心灵", "link": "https://movie.douban.com/subject/1306029/", "tags": "爱是一切逻辑和原由。", "rank": "53", "playable": "[可播放]"}
+{"score": "9.1", "title": "饮食男女", "link": "https://movie.douban.com/subject/1291818/", "tags": "人生不能像做菜，把所有的料都准备好了才下锅。", "rank": "54", "playable": "[无播放源]"}
+{"score": "8.8", "title": "情书", "link": "https://movie.douban.com/subject/1292220/", "tags": "暗恋的极致。", "rank": "55", "playable": "[可播放]"}
+{"score": "9.1", "title": "素媛", "link": "https://movie.douban.com/subject/21937452/", "tags": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。", "rank": "56", "playable": "[无播放源]"}
+{"score": "8.9", "title": "狮子王", "link": "https://movie.douban.com/subject/1301753/", "tags": "动物版《哈姆雷特》。", "rank": "57", "playable": "[可播放]"}
+{"score": "9.1", "title": "美国往事", "link": "https://movie.douban.com/subject/1292262/", "tags": "往事如烟，无处祭奠。", "rank": "58", "playable": "[无播放源]"}
+{"score": "9.1", "title": "钢琴家", "link": "https://movie.douban.com/subject/1296736/", "tags": "音乐能化解仇恨。", "rank": "59", "playable": "[可播放]"}
+{"score": "9.2", "title": "小鞋子", "link": "https://movie.douban.com/subject/1303021/", "tags": "奔跑的孩子是天使。", "rank": "60", "playable": "[可播放]"}
+{"score": "8.8", "title": "七宗罪", "link": "https://movie.douban.com/subject/1292223/", "tags": "警察抓小偷，老鼠玩死猫。", "rank": "61", "playable": "[可播放]"}
+{"score": "8.9", "title": "被嫌弃的松子的一生", "link": "https://movie.douban.com/subject/1787291/", "tags": "以戏谑来戏谑戏谑。", "rank": "62", "playable": "[可播放]"}
+{"score": "8.8", "title": "致命魔术", "link": "https://movie.douban.com/subject/1780330/", "tags": "孪生蝙蝠侠大战克隆金刚狼。", "rank": "63", "playable": "[可播放]"}
+{"score": "8.7", "title": "天使爱美丽", "link": "https://movie.douban.com/subject/1292215/", "tags": "法式小清新。 ", "rank": "64", "playable": "[可播放]"}
+{"score": "8.8", "title": "本杰明·巴顿奇事", "link": "https://movie.douban.com/subject/1485260/", "tags": "在时间之河里感受溺水之苦。", "rank": "65", "playable": "[可播放]"}
+{"score": "8.8", "title": "西西里的美丽传说", "link": "https://movie.douban.com/subject/1292402/", "tags": "美丽无罪。", "rank": "66", "playable": "[可播放]"}
+{"score": "8.9", "title": "黑客帝国", "link": "https://movie.douban.com/subject/1291843/", "tags": "视觉革命。", "rank": "67", "playable": "[可播放]"}
+{"score": "8.7", "title": "让子弹飞", "link": "https://movie.douban.com/subject/3742360/", "tags": "你给我翻译翻译，神马叫做TMD的惊喜。", "rank": "68", "playable": "[可播放]"}
+{"score": "8.9", "title": "拯救大兵瑞恩", "link": "https://movie.douban.com/subject/1292849/", "tags": "美利坚精神输出大片No1.", "rank": "69", "playable": "[可播放]"}
+{"score": "8.9", "title": "音乐之声", "link": "https://movie.douban.com/subject/1294408/", "tags": "用音乐化解仇恨，让歌声串起美好。", "rank": "70", "playable": "[可播放]"}
+{"score": "8.7", "title": "看不见的客人", "link": "https://movie.douban.com/subject/26580232/", "tags": "你以为你以为的就是你以为的。", "rank": "71", "playable": "[可播放]"}
+{"score": "9.0", "title": "末代皇帝", "link": "https://movie.douban.com/subject/1293172/", "tags": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。", "rank": "72", "playable": "[可播放]"}
+{"score": "8.8", "title": "低俗小说", "link": "https://movie.douban.com/subject/1291832/", "tags": "故事的高级讲法。", "rank": "73", "playable": "[可播放]"}
+{"score": "8.8", "title": "勇敢的心", "link": "https://movie.douban.com/subject/1294639/", "tags": "史诗大片的典范。", "rank": "74", "playable": "[可播放]"}
+{"score": "8.7", "title": "剪刀手爱德华", "link": "https://movie.douban.com/subject/1292370/", "tags": "浪漫忧郁的成人童话。", "rank": "75", "playable": "[可播放]"}
+{"score": "8.8", "title": "沉默的羔羊", "link": "https://movie.douban.com/subject/1293544/", "tags": "安东尼·霍普金斯的顶级表演。", "rank": "76", "playable": "[无播放源]"}
+{"score": "9.3", "title": "大闹天宫", "link": "https://movie.douban.com/subject/1418019/", "tags": "经典之作，历久弥新。", "rank": "77", "playable": "[可播放]"}
+{"score": "8.7", "title": "蝴蝶效应", "link": "https://movie.douban.com/subject/1292343/", "tags": "人的命运被自己瞬间的抉择改变。", "rank": "78", "playable": "[可播放]"}
+{"score": "8.8", "title": "春光乍泄", "link": "https://movie.douban.com/subject/1292679/", "tags": "爱情纠缠，男女一致。", "rank": "79", "playable": "[无播放源]"}
+{"score": "8.8", "title": "入殓师", "link": "https://movie.douban.com/subject/2149806/", "tags": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。", "rank": "80", "playable": "[无播放源]"}
+{"score": "8.8", "title": "心灵捕手", "link": "https://movie.douban.com/subject/1292656/", "tags": "人生中应该拥有这样的一段豁然开朗。", "rank": "81", "playable": "[可播放]"}
+{"score": "8.8", "title": "哈利·波特与魔法石", "link": "https://movie.douban.com/subject/1295038/", "tags": "童话世界的开端。", "rank": "82", "playable": "[可播放]"}
+{"score": "8.9", "title": "玛丽和马克思", "link": "https://movie.douban.com/subject/3072124/", "tags": "你是我最好的朋友，你是我唯一的朋友 。", "rank": "83", "playable": "[可播放]"}
+{"score": "8.8", "title": "布达佩斯大饭店", "link": "https://movie.douban.com/subject/11525673/", "tags": "小清新的故事里注入了大历史的情怀。", "rank": "84", "playable": "[可播放]"}
+{"score": "8.8", "title": "阳光灿烂的日子", "link": "https://movie.douban.com/subject/1291875/", "tags": "一场华丽的意淫。", "rank": "85", "playable": "[无播放源]"}
+{"score": "8.7", "title": "禁闭岛", "link": "https://movie.douban.com/subject/2334904/", "tags": "昔日翩翩少年，今日大腹便便。", "rank": "86", "playable": "[可播放]"}
+{"score": "8.8", "title": "猫鼠游戏", "link": "https://movie.douban.com/subject/1305487/", "tags": "骗子大师和执著警探的你追我跑故事。 ", "rank": "87", "playable": "[可播放]"}
+{"score": "8.8", "title": "幽灵公主", "link": "https://movie.douban.com/subject/1297359/", "tags": "人与自然的战争史诗。", "rank": "88", "playable": "[无播放源]"}
+{"score": "8.8", "title": "第六感", "link": "https://movie.douban.com/subject/1297630/", "tags": "深入内心的恐怖，出人意料的结局。", "rank": "89", "playable": "[可播放]"}
+{"score": "8.7", "title": "重庆森林", "link": "https://movie.douban.com/subject/1291999/", "tags": "寂寞没有期限。", "rank": "90", "playable": "[无播放源]"}
+{"score": "9.1", "title": "狩猎", "link": "https://movie.douban.com/subject/6985810/", "tags": "人言可畏。", "rank": "91", "playable": "[可播放]"}
+{"score": "8.7", "title": "致命ID", "link": "https://movie.douban.com/subject/1297192/", "tags": "最不可能的那个人永远是最可能的。", "rank": "92", "playable": "[可播放]"}
+{"score": "8.7", "title": "断背山", "link": "https://movie.douban.com/subject/1418834/", "tags": "每个人心中都有一座断背山。", "rank": "93", "playable": "[可播放]"}
+{"score": "8.9", "title": "穿条纹睡衣的男孩", "link": "https://movie.douban.com/subject/3008247/", "tags": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。", "rank": "94", "playable": "[可播放]"}
+{"score": "8.7", "title": "大鱼", "link": "https://movie.douban.com/subject/1291545/", "tags": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。", "rank": "95", "playable": "[可播放]"}
+{"score": "8.6", "title": "加勒比海盗", "link": "https://movie.douban.com/subject/1298070/", "tags": "约翰尼·德普的独角戏。", "rank": "96", "playable": "[可播放]"}
+{"score": "8.6", "title": "阿凡达", "link": "https://movie.douban.com/subject/1652587/", "tags": "绝对意义上的美轮美奂。", "rank": "97", "playable": "[可播放]"}
+{"score": "8.7", "title": "告白", "link": "https://movie.douban.com/subject/4268598/", "tags": "没有一人完全善，也没有一人完全恶。", "rank": "98", "playable": "[可播放]"}
+{"score": "9.2", "title": "摩登时代", "link": "https://movie.douban.com/subject/1294371/", "tags": "大时代中的人生，小人物的悲喜。", "rank": "99", "playable": "[可播放]"}
+{"score": "8.9", "title": "一一", "link": "https://movie.douban.com/subject/1292434/", "tags": "我们都曾经是一一。", "rank": "100", "playable": "[无播放源]"}
+{"score": "8.8", "title": "甜蜜蜜", "link": "https://movie.douban.com/subject/1305164/", "tags": "相逢只要一瞬间，等待却像是一辈子。", "rank": "101", "playable": "[无播放源]"}
+{"score": "8.7", "title": "射雕英雄传之东成西就", "link": "https://movie.douban.com/subject/1316510/", "tags": "百看不厌。 ", "rank": "102", "playable": "[无播放源]"}
+{"score": "8.8", "title": "阳光姐妹淘", "link": "https://movie.douban.com/subject/4917726/", "tags": "再多各自牛逼的时光，也比不上一起傻逼的岁月。 ", "rank": "103", "playable": "[可播放]"}
+{"score": "8.7", "title": "消失的爱人", "link": "https://movie.douban.com/subject/21318488/", "tags": "年度最佳date movie。", "rank": "104", "playable": "[可播放]"}
+{"score": "8.7", "title": "爱在黎明破晓前", "link": "https://movie.douban.com/subject/1296339/", "tags": "缘分是个连绵词，最美不过一瞬。", "rank": "105", "playable": "[可播放]"}
+{"score": "8.9", "title": "上帝之城", "link": "https://movie.douban.com/subject/1292208/", "tags": "被上帝抛弃了的上帝之城。", "rank": "106", "playable": "[无播放源]"}
+{"score": "8.8", "title": "侧耳倾听", "link": "https://movie.douban.com/subject/1297052/", "tags": "少女情怀总是诗。", "rank": "107", "playable": "[无播放源]"}
+{"score": "8.8", "title": "爱在日落黄昏时", "link": "https://movie.douban.com/subject/1291990/", "tags": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。", "rank": "108", "playable": "[可播放]"}
+{"score": "8.8", "title": "风之谷", "link": "https://movie.douban.com/subject/1291585/", "tags": "动画片的圣经。", "rank": "109", "playable": "[无播放源]"}
+{"score": "8.8", "title": "超脱", "link": "https://movie.douban.com/subject/5322596/", "tags": "穷尽一生，我们要学会的，不过是彼此拥抱。", "rank": "110", "playable": "[可播放]"}
+{"score": "8.9", "title": "小森林 夏秋篇", "link": "https://movie.douban.com/subject/25814705/", "tags": "那些静得只能听见呼吸的日子里，你明白孤独即生活。", "rank": "111", "playable": "[可播放]"}
+{"score": "8.6", "title": "喜剧之王", "link": "https://movie.douban.com/subject/1302425/", "tags": "我是一个演员。", "rank": "112", "playable": "[无播放源]"}
+{"score": "8.6", "title": "倩女幽魂", "link": "https://movie.douban.com/subject/1297447/", "tags": "两张绝世的脸。 ", "rank": "113", "playable": "[可播放]"}
+{"score": "8.7", "title": "恐怖直播", "link": "https://movie.douban.com/subject/21360417/", "tags": "恐怖分子的“秋菊打官司”。", "rank": "114", "playable": "[可播放]"}
+{"score": "8.9", "title": "红辣椒", "link": "https://movie.douban.com/subject/1865703/", "tags": "梦的勾结。", "rank": "115", "playable": "[无播放源]"}
+{"score": "8.8", "title": "菊次郎的夏天", "link": "https://movie.douban.com/subject/1293359/", "tags": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。", "rank": "116", "playable": "[可播放]"}
+{"score": "8.7", "title": "驯龙高手", "link": "https://movie.douban.com/subject/2353023/", "tags": "和谐的生活离不开摸头与被摸头。", "rank": "117", "playable": "[可播放]"}
+{"score": "8.7", "title": "幸福终点站", "link": "https://movie.douban.com/subject/1292274/", "tags": "有时候幸福需要等一等。 ", "rank": "118", "playable": "[可播放]"}
+{"score": "8.5", "title": "神偷奶爸", "link": "https://movie.douban.com/subject/3287562/", "tags": "Mr. I Don't Care其实也有Care的时候。", "rank": "119", "playable": "[可播放]"}
+{"score": "8.7", "title": "借东西的小人阿莉埃蒂", "link": "https://movie.douban.com/subject/4202302/", "tags": "曾经的那段美好会沉淀为一辈子的记忆。", "rank": "120", "playable": "[无播放源]"}
+{"score": "8.6", "title": "岁月神偷", "link": "https://movie.douban.com/subject/3792799/", "tags": "岁月流逝，来日可追。", "rank": "121", "playable": "[无播放源]"}
+{"score": "8.7", "title": "杀人回忆", "link": "https://movie.douban.com/subject/1300299/", "tags": "关于连环杀人悬案的集体回忆。", "rank": "122", "playable": "[无播放源]"}
+{"score": "9.2", "title": "七武士", "link": "https://movie.douban.com/subject/1295399/", "tags": "时代悲歌。", "rank": "123", "playable": "[可播放]"}
+{"score": "8.7", "title": "萤火虫之墓", "link": "https://movie.douban.com/subject/1293318/", "tags": "幸福是生生不息，却难以触及的远。 ", "rank": "124", "playable": "[无播放源]"}
+{"score": "8.6", "title": "怪兽电力公司", "link": "https://movie.douban.com/subject/1291579/", "tags": "不要给它起名字，起了名字就有感情了。", "rank": "125", "playable": "[可播放]"}
+{"score": "8.7", "title": "谍影重重3", "link": "https://movie.douban.com/subject/1578507/", "tags": "像吃了苏打饼一样干脆的电影。", "rank": "126", "playable": "[可播放]"}
+{"score": "8.8", "title": "喜宴", "link": "https://movie.douban.com/subject/1303037/", "tags": "中国家庭的喜怒哀乐忍。", "rank": "127", "playable": "[无播放源]"}
+{"score": "9.0", "title": "小森林 冬春篇", "link": "https://movie.douban.com/subject/25814707/", "tags": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。", "rank": "128", "playable": "[可播放]"}
+{"score": "8.5", "title": "贫民窟的百万富翁", "link": "https://movie.douban.com/subject/2209573/", "tags": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁", "rank": "129", "playable": "[无播放源]"}
+{"score": "8.7", "title": "电锯惊魂", "link": "https://movie.douban.com/subject/1417598/", "tags": "真相就在眼前。", "rank": "130", "playable": "[无播放源]"}
+{"score": "8.6", "title": "东邪西毒", "link": "https://movie.douban.com/subject/1292328/", "tags": "电影诗。", "rank": "131", "playable": "[可播放]"}
+{"score": "8.8", "title": "请以你的名字呼唤我", "link": "https://movie.douban.com/subject/26799731/", "tags": "沉醉在电影的情感和视听氛围中无法自拔。", "rank": "132", "playable": "[无播放源]"}
+{"score": "8.6", "title": "记忆碎片", "link": "https://movie.douban.com/subject/1304447/", "tags": "一个针管引发的血案。", "rank": "133", "playable": "[可播放]"}
+{"score": "8.5", "title": "真爱至上", "link": "https://movie.douban.com/subject/1292401/", "tags": "爱，是个动词。", "rank": "134", "playable": "[可播放]"}
+{"score": "8.5", "title": "黑天鹅", "link": "https://movie.douban.com/subject/1978709/", "tags": "黑暗之美。", "rank": "135", "playable": "[可播放]"}
+{"score": "8.7", "title": "疯狂原始人", "link": "https://movie.douban.com/subject/1907966/", "tags": "老少皆宜，这就是好莱坞动画的魅力。", "rank": "136", "playable": "[可播放]"}
+{"score": "8.7", "title": "哈利·波特与死亡圣器(下)", "link": "https://movie.douban.com/subject/3011235/", "tags": "10年的完美句点。", "rank": "137", "playable": "[可播放]"}
+{"score": "8.8", "title": "萤火之森", "link": "https://movie.douban.com/subject/5989818/", "tags": "触不到的恋人。", "rank": "138", "playable": "[可播放]"}
+{"score": "8.7", "title": "7号房的礼物", "link": "https://movie.douban.com/subject/10777687/", "tags": "《我是山姆》的《美丽人生》。", "rank": "139", "playable": "[无播放源]"}
+{"score": "8.6", "title": "雨人", "link": "https://movie.douban.com/subject/1291870/", "tags": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。", "rank": "140", "playable": "[无播放源]"}
+{"score": "8.6", "title": "英雄本色", "link": "https://movie.douban.com/subject/1297574/", "tags": "英雄泪短，兄弟情长。 ", "rank": "141", "playable": "[可播放]"}
+{"score": "8.9", "title": "卢旺达饭店", "link": "https://movie.douban.com/subject/1291822/", "tags": "当这个世界闭上双眼，他却敞开了怀抱。", "rank": "142", "playable": "[可播放]"}
+{"score": "9.0", "title": "海洋", "link": "https://movie.douban.com/subject/3443389/", "tags": "大海啊，不全是水。", "rank": "143", "playable": "[无播放源]"}
+{"score": "8.7", "title": "心迷宫", "link": "https://movie.douban.com/subject/25917973/", "tags": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。", "rank": "144", "playable": "[可播放]"}
+{"score": "8.6", "title": "超能陆战队", "link": "https://movie.douban.com/subject/11026735/", "tags": "Balalala~~~", "rank": "145", "playable": "[可播放]"}
+{"score": "8.5", "title": "唐伯虎点秋香", "link": "https://movie.douban.com/subject/1306249/", "tags": "华太师是黄霑，吴镇宇四大才子之一。", "rank": "146", "playable": "[可播放]"}
+{"score": "8.6", "title": "蝙蝠侠：黑暗骑士崛起", "link": "https://movie.douban.com/subject/3395373/", "tags": "诺兰就是保证。", "rank": "147", "playable": "[可播放]"}
+{"score": "8.8", "title": "荒蛮故事", "link": "https://movie.douban.com/subject/24750126/", "tags": "始于荒诞，止于更荒诞。", "rank": "148", "playable": "[可播放]"}
+{"score": "8.5", "title": "傲慢与偏见", "link": "https://movie.douban.com/subject/1418200/", "tags": "爱是摈弃傲慢与偏见之后的曙光。", "rank": "149", "playable": "[可播放]"}
+{"score": "8.6", "title": "海边的曼彻斯特", "link": "https://movie.douban.com/subject/25980443/", "tags": "我们都有权利不与自己的过去和解。", "rank": "150", "playable": "[可播放]"}
+{"score": "8.9", "title": "虎口脱险", "link": "https://movie.douban.com/subject/1296909/", "tags": "永远看不腻的喜剧。", "rank": "151", "playable": "[可播放]"}
+{"score": "8.7", "title": "纵横四海", "link": "https://movie.douban.com/subject/1295409/", "tags": "香港浪漫主义警匪动作片的巅峰之作。", "rank": "152", "playable": "[可播放]"}
+{"score": "8.7", "title": "燃情岁月", "link": "https://movie.douban.com/subject/1295865/", "tags": "传奇，不是每个人都可以拥有。", "rank": "153", "playable": "[可播放]"}
+{"score": "8.8", "title": "教父3", "link": "https://movie.douban.com/subject/1294240/", "tags": "任何信念的力量，都无法改变命运。", "rank": "154", "playable": "[可播放]"}
+{"score": "8.6", "title": "时空恋旅人", "link": "https://movie.douban.com/subject/10577869/", "tags": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。", "rank": "155", "playable": "[可播放]"}
+{"score": "8.8", "title": "玩具总动员3", "link": "https://movie.douban.com/subject/1858711/", "tags": "跨度十五年的欢乐与泪水。", "rank": "156", "playable": "[可播放]"}
+{"score": "8.5", "title": "花样年华", "link": "https://movie.douban.com/subject/1291557/", "tags": "偷情本没有这样美。", "rank": "157", "playable": "[可播放]"}
+{"score": "9.0", "title": "完美的世界", "link": "https://movie.douban.com/subject/1300992/", "tags": "坏人的好总是比好人的好来得更感人。", "rank": "158", "playable": "[可播放]"}
+{"score": "8.5", "title": "恋恋笔记本", "link": "https://movie.douban.com/subject/1309163/", "tags": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。 ", "rank": "159", "playable": "[可播放]"}
+{"score": "9.1", "title": "无人知晓", "link": "https://movie.douban.com/subject/1292337/", "tags": "我的平常生活就是他人的幸福。", "rank": "160", "playable": "[可播放]"}
+{"score": "8.7", "title": "达拉斯买家俱乐部", "link": "https://movie.douban.com/subject/1793929/", "tags": "Jared Leto的腿比女人还美！", "rank": "161", "playable": "[可播放]"}
+{"score": "8.7", "title": "二十二", "link": "https://movie.douban.com/subject/26430107/", "tags": "有一些东西不应该被遗忘。", "rank": "162", "playable": "[可播放]"}
+{"score": "9.0", "title": "雨中曲", "link": "https://movie.douban.com/subject/1293460/", "tags": "骨灰级歌舞片。", "rank": "163", "playable": "[可播放]"}
+{"score": "8.8", "title": "魂断蓝桥", "link": "https://movie.douban.com/subject/1293964/", "tags": "中国式内在的美国电影。", "rank": "164", "playable": "[可播放]"}
+{"score": "8.5", "title": "猜火车", "link": "https://movie.douban.com/subject/1292528/", "tags": "不可猜的青春迷笛。 ", "rank": "165", "playable": "[可播放]"}
+{"score": "8.7", "title": "血战钢锯岭", "link": "https://movie.douban.com/subject/26325320/", "tags": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。", "rank": "166", "playable": "[可播放]"}
+{"score": "8.6", "title": "穿越时空的少女", "link": "https://movie.douban.com/subject/1937946/", "tags": "爱上未来的你。 ", "rank": "167", "playable": "[无播放源]"}
+{"score": "8.8", "title": "我是山姆", "link": "https://movie.douban.com/subject/1306861/", "tags": "爱并不需要智商 。", "rank": "168", "playable": "[可播放]"}
+{"score": "8.5", "title": "冰川时代", "link": "https://movie.douban.com/subject/1291578/", "tags": "松鼠才是角儿。", "rank": "169", "playable": "[可播放]"}
+{"score": "8.6", "title": "人工智能", "link": "https://movie.douban.com/subject/1302827/", "tags": "对爱的执着，可以超越一切。", "rank": "170", "playable": "[可播放]"}
+{"score": "8.6", "title": "爆裂鼓手", "link": "https://movie.douban.com/subject/25773932/", "tags": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。", "rank": "171", "playable": "[无播放源]"}
+{"score": "8.7", "title": "浪潮", "link": "https://movie.douban.com/subject/2297265/", "tags": "世界离独裁只有五天。", "rank": "172", "playable": "[无播放源]"}
+{"score": "8.8", "title": "未麻的部屋", "link": "https://movie.douban.com/subject/1395091/", "tags": "好的剧本是，就算你猜到了结局也猜不到全部。", "rank": "173", "playable": "[无播放源]"}
+{"score": "8.7", "title": "罗生门", "link": "https://movie.douban.com/subject/1291879/", "tags": "人生的N种可能性。", "rank": "174", "playable": "[可播放]"}
+{"score": "8.5", "title": "朗读者", "link": "https://movie.douban.com/subject/2213597/", "tags": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 ", "rank": "175", "playable": "[无播放源]"}
+{"score": "8.6", "title": "被解救的姜戈", "link": "https://movie.douban.com/subject/6307447/", "tags": "热血沸腾，那个低俗、性感的无耻混蛋又来了。", "rank": "176", "playable": "[可播放]"}
+{"score": "8.7", "title": "头脑特工队", "link": "https://movie.douban.com/subject/10533913/", "tags": "愿我们都不用长大，每一座城堡都能永远存在。", "rank": "177", "playable": "[可播放]"}
+{"score": "8.4", "title": "香水", "link": "https://movie.douban.com/subject/1760622/", "tags": "一个单凭体香达到高潮的男人。", "rank": "178", "playable": "[可播放]"}
+{"score": "8.5", "title": "阿飞正传", "link": "https://movie.douban.com/subject/1305690/", "tags": "王家卫是一种风格，张国荣是一个代表。", "rank": "179", "playable": "[可播放]"}
+{"score": "8.4", "title": "你的名字。", "link": "https://movie.douban.com/subject/26683290/", "tags": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。", "rank": "180", "playable": "[可播放]"}
+{"score": "8.7", "title": "可可西里", "link": "https://movie.douban.com/subject/1308857/", "tags": "坚硬的信仰。", "rank": "181", "playable": "[可播放]"}
+{"score": "8.4", "title": "恐怖游轮", "link": "https://movie.douban.com/subject/3011051/", "tags": "不要企图在重复中寻找已经失去的爱。", "rank": "182", "playable": "[无播放源]"}
+{"score": "8.8", "title": "房间", "link": "https://movie.douban.com/subject/25724855/", "tags": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。", "rank": "183", "playable": "[可播放]"}
+{"score": "8.7", "title": "一次别离", "link": "https://movie.douban.com/subject/5964718/", "tags": "只有有信仰的人才能说出事实真相。", "rank": "184", "playable": "[可播放]"}
+{"score": "8.6", "title": "战争之王", "link": "https://movie.douban.com/subject/1419936/", "tags": "做一颗让别人需要你的棋子。", "rank": "185", "playable": "[无播放源]"}
+{"score": "8.9", "title": "追随", "link": "https://movie.douban.com/subject/1397546/", "tags": "诺兰的牛逼来源于内心散发出的恐惧。", "rank": "186", "playable": "[无播放源]"}
+{"score": "8.6", "title": "撞车", "link": "https://movie.douban.com/subject/1388216/", "tags": "天使与魔鬼的冲撞。", "rank": "187", "playable": "[可播放]"}
+{"score": "8.6", "title": "模仿游戏", "link": "https://movie.douban.com/subject/10463953/", "tags": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。", "rank": "188", "playable": "[可播放]"}
+{"score": "8.8", "title": "一个叫欧维的男人决定去死", "link": "https://movie.douban.com/subject/26628357/", "tags": "惠及一生的美丽。", "rank": "189", "playable": "[可播放]"}
+{"score": "9.0", "title": "忠犬八公物语", "link": "https://movie.douban.com/subject/1959195/", "tags": "养狗三日，便会对你终其一生。", "rank": "190", "playable": "[可播放]"}
+{"score": "8.9", "title": "地球上的星星", "link": "https://movie.douban.com/subject/2363506/", "tags": "天使保护事件始末。", "rank": "191", "playable": "[无播放源]"}
+{"score": "8.5", "title": "魔女宅急便", "link": "https://movie.douban.com/subject/1307811/", "tags": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。", "rank": "192", "playable": "[无播放源]"}
+{"score": "8.6", "title": "完美陌生人", "link": "https://movie.douban.com/subject/26614893/", "tags": "来啊，互相伤害啊！", "rank": "193", "playable": "[可播放]"}
+{"score": "8.5", "title": "谍影重重", "link": "https://movie.douban.com/subject/1304102/", "tags": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。", "rank": "194", "playable": "[可播放]"}
+{"score": "8.6", "title": "谍影重重2", "link": "https://movie.douban.com/subject/1308767/", "tags": "谁说王家卫镜头很晃？", "rank": "195", "playable": "[可播放]"}
+{"score": "8.8", "title": "牯岭街少年杀人事件", "link": "https://movie.douban.com/subject/1292329/", "tags": "弱者送给弱者的一刀。", "rank": "196", "playable": "[无播放源]"}
+{"score": "8.9", "title": "哪吒闹海", "link": "https://movie.douban.com/subject/1307315/", "tags": "想你时你在闹海。", "rank": "197", "playable": "[可播放]"}
+{"score": "8.7", "title": "梦之安魂曲", "link": "https://movie.douban.com/subject/1292270/", "tags": "一场没有春天的噩梦。", "rank": "198", "playable": "[可播放]"}
+{"score": "8.5", "title": "青蛇", "link": "https://movie.douban.com/subject/1303394/", "tags": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。", "rank": "199", "playable": "[可播放]"}
+{"score": "8.9", "title": "惊魂记", "link": "https://movie.douban.com/subject/1293181/", "tags": "故事的反转与反转，分裂电影的始祖。", "rank": "200", "playable": "[可播放]"}
+{"score": "8.6", "title": "黑客帝国3：矩阵革命", "link": "https://movie.douban.com/subject/1302467/", "tags": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。", "rank": "201", "playable": "[可播放]"}
+{"score": "8.5", "title": "小萝莉的猴神大叔", "link": "https://movie.douban.com/subject/26393561/", "tags": "宝莱坞的萝莉与大叔。", "rank": "202", "playable": "[可播放]"}
+{"score": "8.5", "title": "再次出发之纽约遇见你", "link": "https://movie.douban.com/subject/6874403/", "tags": "爱我就给我看你的播放列表。", "rank": "203", "playable": "[可播放]"}
+{"score": "9.2", "title": "东京物语", "link": "https://movie.douban.com/subject/1291568/", "tags": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。", "rank": "204", "playable": "[可播放]"}
+{"score": "8.5", "title": "新龙门客栈", "link": "https://movie.douban.com/subject/1292287/", "tags": "嬉笑怒骂，调风动月。", "rank": "205", "playable": "[可播放]"}
+{"score": "8.7", "title": "海街日记", "link": "https://movie.douban.com/subject/25895901/", "tags": "是枝裕和的家庭习作。", "rank": "206", "playable": "[可播放]"}
+{"score": "8.8", "title": "步履不停", "link": "https://movie.douban.com/subject/2222996/", "tags": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。", "rank": "207", "playable": "[可播放]"}
+{"score": "8.4", "title": "源代码", "link": "https://movie.douban.com/subject/3075287/", "tags": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。", "rank": "208", "playable": "[无播放源]"}
+{"score": "8.6", "title": "终结者2：审判日", "link": "https://movie.douban.com/subject/1291844/", "tags": "少见的超越首部的续集，动作片中的经典。", "rank": "209", "playable": "[可播放]"}
+{"score": "8.7", "title": "绿里奇迹", "link": "https://movie.douban.com/subject/1300374/", "tags": "天使暂时离开。", "rank": "210", "playable": "[可播放]"}
+{"score": "8.7", "title": "末路狂花", "link": "https://movie.douban.com/subject/1291992/", "tags": "没有了退路，只好飞向自由。", "rank": "211", "playable": "[无播放源]"}
+{"score": "8.3", "title": "初恋这件小事", "link": "https://movie.douban.com/subject/4739952/", "tags": "黑小鸭速效美白记。", "rank": "212", "playable": "[可播放]"}
+{"score": "8.7", "title": "无敌破坏王", "link": "https://movie.douban.com/subject/6534248/", "tags": "迪士尼和皮克斯拿错剧本的产物。", "rank": "213", "playable": "[可播放]"}
+{"score": "8.3", "title": "秒速5厘米", "link": "https://movie.douban.com/subject/2043546/", "tags": "青春就是放弃和怀念。", "rank": "214", "playable": "[可播放]"}
+{"score": "9.2", "title": "城市之光", "link": "https://movie.douban.com/subject/1293908/", "tags": "永远的小人物，伟大的卓别林。", "rank": "215", "playable": "[可播放]"}
+{"score": "8.5", "title": "无耻混蛋", "link": "https://movie.douban.com/subject/1438652/", "tags": "昆汀同学越来越变态了，比北野武还杜琪峰。", "rank": "216", "playable": "[可播放]"}
+{"score": "8.8", "title": "爱在午夜降临前", "link": "https://movie.douban.com/subject/10808442/", "tags": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。", "rank": "217", "playable": "[可播放]"}
+{"score": "8.5", "title": "这个男人来自地球", "link": "https://movie.douban.com/subject/2300586/", "tags": "科幻真正的魅力不是视觉效果能取代的。 ", "rank": "218", "playable": "[可播放]"}
+{"score": "8.7", "title": "碧海蓝天", "link": "https://movie.douban.com/subject/1300960/", "tags": "在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。", "rank": "219", "playable": "[无播放源]"}
+{"score": "8.3", "title": "疯狂的石头", "link": "https://movie.douban.com/subject/1862151/", "tags": "中国版《两杆大烟枪》。", "rank": "220", "playable": "[无播放源]"}
+{"score": "8.6", "title": "勇闯夺命岛", "link": "https://movie.douban.com/subject/1292728/", "tags": "类型片的极致。 ", "rank": "221", "playable": "[可播放]"}
+{"score": "8.5", "title": "E.T. 外星人", "link": "https://movie.douban.com/subject/1294638/", "tags": "生病的E.T.皮肤的颜色就像柿子饼。", "rank": "222", "playable": "[可播放]"}
+{"score": "8.4", "title": "变脸", "link": "https://movie.douban.com/subject/1292659/", "tags": "当发哥的风衣、墨镜出现在了凯奇身上⋯⋯", "rank": "223", "playable": "[可播放]"}
+{"score": "8.6", "title": "卡萨布兰卡", "link": "https://movie.douban.com/subject/1296753/", "tags": "世界上有那么多女人那么多酒馆，但她偏偏走进我的这家。", "rank": "224", "playable": "[可播放]"}
+{"score": "8.6", "title": "海盗电台", "link": "https://movie.douban.com/subject/3007773/", "tags": "生命不止，摇滚不死。", "rank": "225", "playable": "[可播放]"}
+{"score": "8.5", "title": "发条橙", "link": "https://movie.douban.com/subject/1292233/", "tags": "我完全康复了。", "rank": "226", "playable": "[无播放源]"}
+{"score": "9.1", "title": "黄金三镖客", "link": "https://movie.douban.com/subject/1401118/", "tags": "最棒的西部片。", "rank": "227", "playable": "[可播放]"}
+{"score": "8.4", "title": "彗星来的那一夜", "link": "https://movie.douban.com/subject/25807345/", "tags": "小成本大魅力。", "rank": "228", "playable": "[可播放]"}
+{"score": "8.5", "title": "美国丽人", "link": "https://movie.douban.com/subject/1292062/", "tags": "每个人的内心都是深不可测的大海。 ", "rank": "229", "playable": "[可播放]"}
+{"score": "8.8", "title": "聚焦", "link": "https://movie.douban.com/subject/25954475/", "tags": "新闻人的理性求真。", "rank": "230", "playable": "[可播放]"}
+{"score": "8.5", "title": "血钻", "link": "https://movie.douban.com/subject/1428175/", "tags": "每个美丽事物背后都是滴血的现实。", "rank": "231", "playable": "[可播放]"}
+{"score": "8.6", "title": "荒野生存", "link": "https://movie.douban.com/subject/1905462/", "tags": "出门必备：本草纲目。", "rank": "232", "playable": "[可播放]"}
+{"score": "8.3", "title": "国王的演讲", "link": "https://movie.douban.com/subject/4023638/", "tags": "皇上无话儿。", "rank": "233", "playable": "[可播放]"}
+{"score": "8.6", "title": "非常嫌疑犯", "link": "https://movie.douban.com/subject/1292214/", "tags": "我不信仰上帝，但我敬畏上帝。", "rank": "234", "playable": "[可播放]"}
+{"score": "8.5", "title": "英国病人", "link": "https://movie.douban.com/subject/1291853/", "tags": "In memory, love lives forever...", "rank": "235", "playable": "[可播放]"}
+{"score": "9.1", "title": "迁徙的鸟", "link": "https://movie.douban.com/subject/1292281/", "tags": "最美的飞翔。", "rank": "236", "playable": "[可播放]"}
+{"score": "8.6", "title": "黑鹰坠落", "link": "https://movie.douban.com/subject/1291824/", "tags": "还原真实而残酷的战争。", "rank": "237", "playable": "[可播放]"}
+{"score": "9.0", "title": "我爱你", "link": "https://movie.douban.com/subject/5908478/", "tags": "你要相信，这世上真的有爱存在，不管在什么年纪 ", "rank": "238", "playable": "[可播放]"}
+{"score": "8.9", "title": "勇士", "link": "https://movie.douban.com/subject/3217169/", "tags": "热血沸腾，相当完美的娱乐拳击大餐。", "rank": "239", "playable": "[无播放源]"}
+{"score": "8.5", "title": "遗愿清单", "link": "https://movie.douban.com/subject/1867345/", "tags": "用剩余不多的时间，去燃烧整个生命。", "rank": "240", "playable": "[可播放]"}
+{"score": "8.5", "title": "荒岛余生", "link": "https://movie.douban.com/subject/1298653/", "tags": "一个人的独角戏。", "rank": "241", "playable": "[可播放]"}
+{"score": "8.6", "title": "燕尾蝶", "link": "https://movie.douban.com/subject/1307793/", "tags": "现实与童话交相辉映的旅程。", "rank": "242", "playable": "[无播放源]"}
+{"score": "8.7", "title": "枪火", "link": "https://movie.douban.com/subject/1300741/", "tags": "一群演技精湛的戏骨，奉献出一个精致的黑帮小品，成就杜琪峰群戏的巅峰之作。", "rank": "243", "playable": "[无播放源]"}
+{"score": "8.7", "title": "2001太空漫游", "link": "https://movie.douban.com/subject/1292226/", "tags": "现代科幻电影的开山之作，最伟大导演的最伟大影片。", "rank": "244", "playable": "[可播放]"}
+{"score": "8.6", "title": "叫我第一名", "link": "https://movie.douban.com/subject/4798888/", "tags": "乐观比一切都有力量。", "rank": "245", "playable": "[无播放源]"}
+{"score": "8.3", "title": "穆赫兰道", "link": "https://movie.douban.com/subject/1292217/", "tags": "大卫·林奇的梦境迷宫。", "rank": "246", "playable": "[无播放源]"}
+{"score": "8.7", "title": "千钧一发", "link": "https://movie.douban.com/subject/1300117/", "tags": "一部能引人思考的科幻励志片。", "rank": "247", "playable": "[可播放]"}
+{"score": "8.7", "title": "上帝也疯狂", "link": "https://movie.douban.com/subject/1297478/", "tags": "纯净原始的笑与感动。", "rank": "248", "playable": "[无播放源]"}
+{"score": "8.6", "title": "大卫·戈尔的一生", "link": "https://movie.douban.com/subject/1305725/", "tags": "捍卫人权只是信仰，一点不妨碍其行为的残忍。", "rank": "249", "playable": "[可播放]"}
+{"score": "8.3", "title": "蓝色大门", "link": "https://movie.douban.com/subject/1308575/", "tags": "青春的窃窃私语。 ", "rank": "250", "playable": "[无播放源]"}
