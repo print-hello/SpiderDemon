@@ -22,8 +22,8 @@ class MySQLPipeline(object):
             host='localhost',
             port=3306,
             user='root',
-            password='******',
-            db='spidertest',
+            password='123456',
+            db='spiderinfo',
             charset='utf8mb4',
             cursorclass=pymysql.cursors.DictCursor)
         self.cursor = self.conn.cursor()
@@ -31,7 +31,7 @@ class MySQLPipeline(object):
     def process_item(self, item, spider):
         try:
             self.cursor.execute(
-                '''insert into movie (rank, title, score, tags, link, playable)
+                '''insert into doubanmovie(rank, title, score, tags, link, playable)
                 values (%s, %s, %s, %s, %s, %s)''',
                 (item['rank'],
                  item['title'],
