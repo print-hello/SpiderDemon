@@ -1,6 +1,3 @@
-'''
-Author: Vinter Wang
-'''
 # -*- coding: utf-8 -*-
 import scrapy
 
