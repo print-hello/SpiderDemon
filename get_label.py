@@ -54,9 +54,9 @@ def write_db(conn, url, state=0):
     spider_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     cursor = conn.cursor()
     if state == 0:
-        cursor.execute('UPDATE li_result set spider_time="%s" where link="%s"' % (spider_time, url))
+        cursor.execute('UPDATE li_result set spider_time=%s where link=%s', (spider_time, url))
     elif state == 1:
-        cursor.execute('UPDATE li_result set status=1, spider_time="%s" where link="%s"' % (spider_time, url))
+        cursor.execute('UPDATE li_result set status=1, spider_time=%s where link=%s', (spider_time, url))
     conn.commit()
     cursor.close()
 
