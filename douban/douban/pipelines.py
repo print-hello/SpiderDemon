@@ -43,3 +43,7 @@ class MySQLPipeline(object):
         except:
             self.conn.rollback()
         return item
+
+    def close_spider(self, spider):
+        self.cursor.close()
+        self.conn.close()
